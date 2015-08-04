@@ -14,7 +14,7 @@ Clone this repository.
 
 Start PHP server in web directory. On a mac, run php -S localhost:8000.
 
-Then open your web browser to localhost:8000/
+Then open your web browser to localhost:8000/new_rectangle.php.
 
 ##Technologies Used
 
